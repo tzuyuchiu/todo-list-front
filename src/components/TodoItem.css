@@ -1,0 +1,9 @@
+.todoitem {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-evenly;
+}
+
+/* .todoitem .deleteButton {
+  flex: 15% 1 1;
+} */
